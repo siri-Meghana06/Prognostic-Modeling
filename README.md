@@ -16,6 +16,7 @@ Diabetes Risk (Low, Moderate, High)
 Real-time analysis simulation with a loading indicator
 User-friendly interface using Tkinter and Pillow
 Installation & Usage
+
 **Requirements**
 Python 3.x
 Install dependencies:
